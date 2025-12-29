@@ -106,18 +106,6 @@ java Main
 
 ---
 
-## Screenshots
-
-Screenshots of the program output should demonstrate:
-
-* Different vehicle types starting and stopping engines
-* Vehicle information being displayed
-* Driver information associated with each vehicle
-
-
-
----
-
 ## Reflection
 
 Inheritance significantly simplified the system design by allowing common vehicle properties and behaviors to be defined once in the abstract `Vehicle` class. This reduced code duplication and made the system easier to extend with new vehicle types.
